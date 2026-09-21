@@ -6,7 +6,6 @@ Open demo.html directly in a browser. It uses the public OTA catalog API for liv
 
 DEMO ACCOUNTS:
 User:  user@gsm.local / user123
-Admin: admin@gsm.local / admin123
 
 XAMPP:
 1. Copy this folder to C:\xampp\htdocs\gsm-firmware-downloader
