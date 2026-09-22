@@ -7,7 +7,7 @@ Open demo.html directly in a browser. It uses the public OTA catalog API for liv
 DEMO ACCOUNTS:
 User:  user@gsm.local / user123
 
-XAMPP:
+Test On XAMPP:
 1. Copy this folder to C:\xampp\htdocs\gsm-firmware-downloader
 2. Create a MySQL database and import database.sql in phpMyAdmin.
 3. Edit config.php with your MySQL credentials.
